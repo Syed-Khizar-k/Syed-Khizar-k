@@ -1,6 +1,12 @@
-# 💫 About Me:
-i am currently working on html , css , tailwind css , javascript , react and next js  <br>i am looking to collaborate on Front end dynamic web development projects<br>i am looking for help with backend technologies like node,nest js , express js and mongodb for data base handling<br>i am currently learning node.js , express js and NoSQL mongodb database architechture<br>in the today's era , i hate helping out with AI blindly , i think that ai should be used to help out but also focous on the concepts and the solution of problems how ai is tackling that and is there any better approach you have in mind
+I am a frontend-focused web developer currently working with **HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js**, with a strong interest in building **dynamic and responsive user interfaces**.
 
+I’m actively looking to **collaborate on frontend and full-stack web development projects**, especially those that emphasize clean architecture, performance, and real-world problem solving.
+
+At the same time, I’m learning **backend development** with **Node.js, Express.js, NestJS**, and **MongoDB**, focusing on API design, database modeling, and scalable NoSQL architectures.
+
+In today’s AI-driven era, I believe AI should be used as a **supportive tool rather than a shortcut**. I value understanding **core concepts**, exploring **how solutions work under the hood**, and evaluating whether **better or more efficient approaches** exist beyond AI-generated answers.
+
+I’m always eager to learn, build, and grow by solving meaningful problems.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khizarsyed4294@gmail.com) 
