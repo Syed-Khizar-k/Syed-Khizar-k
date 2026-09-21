@@ -2,6 +2,10 @@
 ### A Developer.
 
 - Freelancer
+- Founder
+- Strategist
+- Problem Solver
+- Claude Caude User
 
 ## About Me
 Welcome to my coding BaseCamp ! I'm Syed Khizar , a passionate Next.js | Python Django Developer and dedicated freelancer at Upwork. I thrive on turning ideas into functional and visually appealing digital experiences.
