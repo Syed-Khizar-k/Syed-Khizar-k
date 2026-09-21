@@ -4,7 +4,17 @@
 - Freelancer
 
 ## About Me
-Welcome to my coding BaseCamp ! I'm Syed Khizar , a passionate developer and dedicated freelancer. I thrive on turning ideas into functional and visually appealing digital experiences.
+Welcome to my coding BaseCamp ! I'm Syed Khizar , a passionate Next.js | Python Django Developer and dedicated freelancer at Upwork. I thrive on turning ideas into functional and visually appealing digital experiences.
+
+Working with International clients including US,UK,Germany,PK and specially for UAE Clients. Building Modern SaaS products and solutions for Enterprise Business Problems.
+
+
+## Acheivements
+Founded Pakistan's ist Table Reservation SaaS platform and reservation restaurants marketplace . Scaling to monthly thousands of active users. 
+
+Built a Multi million Dirhams ERP Software for UAE Construction companies while using Claude Code at its Maximum power .
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmianharoon&label=Profile%20views&color=0e75b6&style=flat" alt="devmianharoon" /> </p>
 
