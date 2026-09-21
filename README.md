@@ -8,7 +8,7 @@ Welcome to my coding BaseCamp ! I'm Syed Khizar , a passionate developer and ded
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmianharoon&label=Profile%20views&color=0e75b6&style=flat" alt="devmianharoon" /> </p>
 
-- 🌱 I’m currently learning **Node , Express , NOSql Data bases**
+- 🌱 I’m currently Mastering **Claude Assisted Full Stack development**
   
 - 📫 How to reach me **khizarsyed4294@gmail.com**
 
@@ -26,39 +26,39 @@ Track my coding journey with the GitHub Streak! 🚀
 ## 🕸️ **WEB DEV TOOLS**
 Mastering the art of web development with an arsenal of powerful tools:
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/devmianharoon)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/devmianharoon)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/devmianharoon)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/devmianharoon)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/devmianharoon)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/devmianharoon)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/devmianharoon)
-[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/devmianharoon)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/devmianharoon)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/devmianharoon)
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23404d59.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/devmianharoon)
-[![React Query](https://img.shields.io/badge/React_Query-000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/devmianharoon)
-[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://github.com/devmianharoon)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Syed-Khizar-k)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Syed-Khizar-k)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23404d59.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![React Query](https://img.shields.io/badge/React_Query-000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://github.com/Syed-Khizar-k)
 
 ## 📱 **MOBILE DEV TOOLS**
 Crafting seamless mobile experiences with:
 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/devmianharoon)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Syed-Khizar-k)
 
 ## 🍧 **DESIGN TOOLS**
 Fueling creativity with top-notch design tools:
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/devmianharoon)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/devmianharoon)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/devmianharoon)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/Syed-Khizar-k)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/Syed-Khizar-k)
 
 ## ⚙️ **BACKEND DEV TOOLS**
 Powering the server-side magic with:
 
 [![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi)](https://github.com/tiangolo/fastapi)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/devmianharoon)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/devmianharoon)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/devmianharoon)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Syed-Khizar-k)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/Syed-Khizar-k)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/Syed-Khizar-k)
 
 ## 📅 **DATABASES**
 Harnessing the power of data with:
